@@ -1,5 +1,5 @@
 # papyrusweb
-code for papyrusweb.
+code for papyrusweb. a peer to peer and application based book library.
 
 here is the design:
 ![papyrus design 1](https://res.cloudinary.com/djuyt5yew/image/upload/v1697595528/20231018_091412_p1xytm.jpg)
